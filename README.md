@@ -18,3 +18,12 @@ A computer vision project that detects vehicle number plates from images or real
 - Pandas
 
 ## 📂 Project Structure
+numberplate-detection-yolo
+│
+├── dataset/
+├── models/
+├── images/
+├── train.py
+├── detect.py
+├── requirements.txt
+└── README.md
